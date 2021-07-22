@@ -1,0 +1,99 @@
+:root { 
+  --alizarin-crimson: #ed1f24;
+  --black: #000000;
+  --cerulean: #00b3eb;
+  --cloud: #c7c7c7;
+  --cosmic-cobalt: #2b3385;
+  --gunsmoke: #818285;
+  --storm-dust: #636462;
+  --white: #ffffff;
+ 
+  --font-size-l: 25px;
+  --font-size-m: 22px;
+  --font-size-s: 20px;
+  --font-size-xl: 30px;
+  --font-size-xxl: 35px;
+  --font-size-xxxl: 45px;
+  --font-size-xxxxl: 74.2px;
+ 
+  --font-family-ubuntu: "Ubuntu", Helvetica;
+}
+.ubuntu-bold-white-45px {
+  color: var(--white);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ubuntu-normal-white-35px {
+  color: var(--white);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-normal-storm-dust-30px {
+  color: var(--storm-dust);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-normal-gunsmoke-30px {
+  color: var(--gunsmoke);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-normal-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ubuntu-bold-cosmic-cobalt-45px {
+  color: var(--cosmic-cobalt);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ubuntu-normal-cerulean-20px {
+  color: var(--cerulean);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-normal-storm-dust-20px {
+  color: var(--storm-dust);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-bold-white-74-2px {
+  color: var(--white);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
